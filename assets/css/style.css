@@ -904,6 +904,10 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact .posisi-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .contact .info {
   width: 100%;
   background: #fff;
