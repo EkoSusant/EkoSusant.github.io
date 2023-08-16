@@ -905,8 +905,11 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .posisi-button {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+}
+.contact .posisi-button a {
+  margin: 5px;
 }
 .contact .info {
   width: 100%;
