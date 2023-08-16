@@ -911,6 +911,16 @@ section {
 .contact .posisi-button a {
   margin: 5px;
 }
+@media (max-width: 767px) {
+  .contact .posisi-button {
+    display: grid;
+    text-align: center;
+    justify-content: center;
+  }
+  .contact .posisi-button a {
+    margin: 5px;
+  }
+}
 .contact .info {
   width: 100%;
   background: #fff;
